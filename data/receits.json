@@ -1,0 +1,178 @@
+{
+    "salgados": [{
+        "nome": "Coxinha",
+        "tipo": "Frito",
+        "rendimento": 15,
+        "preparo": {
+            "tempo_total": 60,
+            "uso_forno": {
+                "tempo_minutos": 5,
+                "unidades_maximas": 5
+            }
+        },
+        "ingredientes": [{
+            "nome": "Leite",
+            "quantidade": 500
+        }, {
+            "nome": "Caldo de galinha",
+            "quantidade": 500
+        }, {
+            "nome": "Óleo",
+            "quantidade": 30
+        }, {
+            "nome": "Sal",
+            "quantidade": 15
+        }, {
+            "nome": "Farinha de trigo",
+            "quantidade": 500
+        }, {
+            "nome": "Peito de frango",
+            "quantidade": 500
+        }]
+    }, {
+        "nome": "Joelho",
+        "tipo": "Assado",
+        "rendimento": 15,
+        "preparo": {
+            "tempo_total": 80,
+            "uso_forno": {
+                "tempo_minutos": 25,
+                "unidades_maximas": 40
+            }
+        },
+        "ingredientes": [{
+            "nome": "Água",
+            "quantidade": 500
+        }, {
+            "nome": "Óleo",
+            "quantidade": 150
+        }, {
+            "nome": "Açúcar cristal",
+            "quantidade": 40
+        }, {
+            "nome": "Sal",
+            "quantidade": 20
+        }, {
+            "nome": "Fermento biológico",
+            "quantidade": 20
+        }, {
+            "nome": "Farinha de trigo",
+            "quantidade": 1000
+        }, {
+            "nome": "Presunto",
+            "quantidade": 300
+        }, {
+            "nome": "Mussarela",
+            "quantidade": 300
+        }, {
+            "nome": "Ovo",
+            "quantidade": 1
+        }]
+    }, {
+        "nome": "Empadinha",
+        "tipo": "Assado",
+        "rendimento": 10,
+        "preparo": {
+            "tempo_total": 60,
+            "uso_forno": {
+                "tempo_minutos": 40,
+                "unidades_maximas": 40
+            }
+        },
+        "ingredientes": [{
+            "nome": "Farinha de trigo",
+            "quantidade": 400
+        }, {
+            "nome": "Manteiga",
+            "quantidade": 200
+        }, {
+            "nome": "Peito de frango",
+            "quantidade": 500
+        }, {
+            "nome": "Ovo",
+            "quantidade": 1
+        }]
+    }],
+
+    "materias_prima": [{
+        "nome": "Leite",
+        "unidade_medida": "mL",
+        "custo_unitario": 5.50,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Caldo de galinha",
+        "unidade_medida": "mL",
+        "custo_unitario": 0.0,
+        "quantidade_unitaria": 500
+    }, {
+        "nome": "Óleo",
+        "unidade_medida": "mL",
+        "custo_unitario": 9.0,
+        "quantidade_unitaria": 900
+    }, {
+        "nome": "Sal",
+        "unidade_medida": "g",
+        "custo_unitario": 9.0,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Farinha de trigo",
+        "unidade_medida": "g",
+        "custo_unitario": 4.99,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Peito de frango",
+        "unidade_medida": "g",
+        "custo_unitario": 8.99,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Água",
+        "unidade_medida": "mL",
+        "custo_unitario": 0,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Açúcar cristal",
+        "unidade_medida": "g",
+        "custo_unitario": 19.90,
+        "quantidade_unitaria": 5000
+    }, {
+        "nome": "Fermento biológico",
+        "unidade_medida": "g",
+        "custo_unitario": 11.90,
+        "quantidade_unitaria": 120
+    }, {
+        "nome": "Presunto",
+        "unidade_medida": "g",
+        "custo_unitario": 21.90,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Mussarela",
+        "unidade_medida": "g",
+        "custo_unitario": 29.98,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Manteiga",
+        "unidade_medida": "g",
+        "custo_unitario": 7.99,
+        "quantidade_unitaria": 200
+    }, {
+        "nome": "Ovo",
+        "unidade_medida": "unidade",
+        "custo_unitario": 24.90,
+        "quantidade_unitaria": 30
+    }, {
+        "nome": "Acém moído",
+        "unidade_medida": "g",
+        "custo_unitario": 23.90,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Polvilho azedo",
+        "unidade_medida": "g",
+        "custo_unitario": 13.99,
+        "quantidade_unitaria": 1000
+    }, {
+        "nome": "Queijo meia cura",
+        "unidade_medida": "g",
+        "custo_unitario": 35.0,
+        "quantidade_unitaria": 800
+    }]
+}
