@@ -2,6 +2,7 @@
     "salgados": [{
         "nome": "Coxinha",
         "tipo": "Frito",
+        "vendido_por": 6,
         "rendimento": 15,
         "preparo": {
             "tempo_total": 60,
@@ -32,6 +33,7 @@
     }, {
         "nome": "Joelho",
         "tipo": "Assado",
+        "vendido_por": 7,
         "rendimento": 15,
         "preparo": {
             "tempo_total": 80,
@@ -71,6 +73,7 @@
     }, {
         "nome": "Empadinha",
         "tipo": "Assado",
+        "vendido_por": 8,
         "rendimento": 10,
         "preparo": {
             "tempo_total": 60,
@@ -91,6 +94,179 @@
         }, {
             "nome": "Ovo",
             "quantidade": 1
+        }]
+    }, {
+        "nome": "Pastel de carne",
+        "tipo": "Frito",
+        "vendido_por": 6,
+        "rendimento": 15,
+        "preparo": {
+            "tempo_total": 60,
+            "uso_forno": {
+                "tempo_minutos": 5,
+                "unidades_maximas": 5
+            }
+        },
+        "ingredientes": [{
+            "nome": "Farinha de trigo",
+            "quantidade": 1000
+        }, {
+            "nome": "Ovo",
+            "quantidade": 1
+        }, {
+            "nome": "Fermento biológico",
+            "quantidade": 20
+        }, {
+            "nome": "Açúcar cristal",
+            "quantidade": 10
+        }, {
+            "nome": "Óleo",
+            "quantidade": 30
+        }, {
+            "nome": "Leite",
+            "quantidade": 500
+        }, {
+            "nome": "Acém moído",
+            "quantidade": 500
+        }]
+    }, {
+        "nome": "Pastel de frango",
+        "tipo": "Frito",
+        "vendido_por": 6,
+        "rendimento": 15,
+        "preparo": {
+            "tempo_total": 60,
+            "uso_forno": {
+                "tempo_minutos": 5,
+                "unidades_maximas": 5
+            }
+        },
+        "ingredientes": [{
+            "nome": "Farinha de trigo",
+            "quantidade": 1000
+        }, {
+            "nome": "Ovo",
+            "quantidade": 1
+        }, {
+            "nome": "Fermento biológico",
+            "quantidade": 20
+        }, {
+            "nome": "Açúcar cristal",
+            "quantidade": 10
+        }, {
+            "nome": "Óleo",
+            "quantidade": 30
+        }, {
+            "nome": "Leite",
+            "quantidade": 500
+        }, {
+            "nome": "Peito de frango",
+            "quantidade": 500
+        }]
+    }, {
+        "nome": "Esfirra de carne",
+        "tipo": "Assado",
+        "vendido_por": 7,
+        "rendimento": 10,
+        "preparo": {
+            "tempo_total": 90,
+            "uso_forno": {
+                "tempo_minutos": 40,
+                "unidades_maximas": 50
+            }
+        },
+        "ingredientes": [{
+            "nome": "Farinha de trigo",
+            "quantidade": 500
+        }, {
+            "nome": "Leite",
+            "quantidade": 250
+        }, {
+            "nome": "Óleo",
+            "quantidade": 100
+        }, {
+            "nome": "Açúcar cristal",
+            "quantidade": 20
+        }, {
+            "nome": "Sal",
+            "quantidade": 5
+        }, {
+            "nome": "Fermento biológico",
+            "quantidade": 10
+        }, {
+            "nome": "Acém moído",
+            "quantidade": 500
+        }, {
+            "nome": "Ovo",
+            "quantidade": 1
+        }]
+    }, {
+        "nome": "Esfirra de frango",
+        "tipo": "Assado",
+        "vendido_por": 7,
+        "rendimento": 10,
+        "preparo": {
+            "tempo_total": 90,
+            "uso_forno": {
+                "tempo_minutos": 40,
+                "unidades_maximas": 50
+            }
+        },
+        "ingredientes": [{
+            "nome": "Farinha de trigo",
+            "quantidade": 500
+        }, {
+            "nome": "Leite",
+            "quantidade": 250
+        }, {
+            "nome": "Óleo",
+            "quantidade": 100
+        }, {
+            "nome": "Açúcar cristal",
+            "quantidade": 20
+        }, {
+            "nome": "Sal",
+            "quantidade": 5
+        }, {
+            "nome": "Fermento biológico",
+            "quantidade": 10
+        }, {
+            "nome": "Peito de frango",
+            "quantidade": 500
+        }, {
+            "nome": "Ovo",
+            "quantidade": 1
+        }]
+    }, {
+        "nome": "Pão de queijo",
+        "tipo": "Assado",
+        "vendido_por": 7,
+        "rendimento": 30,
+        "preparo": {
+            "tempo_total": 90,
+            "uso_forno": {
+                "tempo_minutos": 40,
+                "unidades_maximas": 50
+            }
+        },
+        "ingredientes": [{
+            "nome": "Polvilho azedo",
+            "quantidade": 1000
+        }, {
+            "nome": "Queijo meia cura",
+            "quantidade": 300
+        }, {
+            "nome": "Óleo",
+            "quantidade": 500
+        }, {
+            "nome": "Leite",
+            "quantidade": 750
+        }, {
+            "nome": "Ovo",
+            "quantidade": 4
+        }, {
+            "nome": "Sal",
+            "quantidade": 20
         }]
     }],
 
