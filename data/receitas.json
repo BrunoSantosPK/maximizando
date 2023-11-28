@@ -274,81 +274,97 @@
         "nome": "Leite",
         "unidade_medida": "mL",
         "custo_unitario": 5.50,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": false
     }, {
         "nome": "Caldo de galinha",
         "unidade_medida": "mL",
         "custo_unitario": 0.0,
-        "quantidade_unitaria": 500
+        "quantidade_unitaria": 500,
+        "compra_fracionada": true
     }, {
         "nome": "Óleo",
         "unidade_medida": "mL",
         "custo_unitario": 9.0,
-        "quantidade_unitaria": 900
+        "quantidade_unitaria": 900,
+        "compra_fracionada": false
     }, {
         "nome": "Sal",
         "unidade_medida": "g",
         "custo_unitario": 9.0,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": false
     }, {
         "nome": "Farinha de trigo",
         "unidade_medida": "g",
         "custo_unitario": 4.99,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": false
     }, {
         "nome": "Peito de frango",
         "unidade_medida": "g",
         "custo_unitario": 8.99,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": true
     }, {
         "nome": "Água",
         "unidade_medida": "mL",
         "custo_unitario": 0,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": true
     }, {
         "nome": "Açúcar cristal",
         "unidade_medida": "g",
         "custo_unitario": 19.90,
-        "quantidade_unitaria": 5000
+        "quantidade_unitaria": 5000,
+        "compra_fracionada": false
     }, {
         "nome": "Fermento biológico",
         "unidade_medida": "g",
         "custo_unitario": 11.90,
-        "quantidade_unitaria": 120
+        "quantidade_unitaria": 120,
+        "compra_fracionada": false
     }, {
         "nome": "Presunto",
         "unidade_medida": "g",
         "custo_unitario": 21.90,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": true
     }, {
         "nome": "Mussarela",
         "unidade_medida": "g",
         "custo_unitario": 29.98,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": true
     }, {
         "nome": "Manteiga",
         "unidade_medida": "g",
         "custo_unitario": 7.99,
-        "quantidade_unitaria": 200
+        "quantidade_unitaria": 200,
+        "compra_fracionada": false
     }, {
         "nome": "Ovo",
         "unidade_medida": "unidade",
         "custo_unitario": 24.90,
-        "quantidade_unitaria": 30
+        "quantidade_unitaria": 30,
+        "compra_fracionada": false
     }, {
         "nome": "Acém moído",
         "unidade_medida": "g",
         "custo_unitario": 23.90,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": true
     }, {
         "nome": "Polvilho azedo",
         "unidade_medida": "g",
         "custo_unitario": 13.99,
-        "quantidade_unitaria": 1000
+        "quantidade_unitaria": 1000,
+        "compra_fracionada": false
     }, {
         "nome": "Queijo meia cura",
         "unidade_medida": "g",
         "custo_unitario": 35.0,
-        "quantidade_unitaria": 800
+        "quantidade_unitaria": 800,
+        "compra_fracionada": false
     }]
 }
