@@ -1,0 +1,44 @@
+{
+    "Alcatra": {
+        "Preço/Lote": 37.99,
+        "Quantidade/Lote": null,
+        "Massa/Lote": 1,
+        "Incremento": 0.1,
+        "Categoria": "Carne Bovina"
+    },
+    "Linguiça": {
+        "Preço/Lote": 37.99,
+        "Quantidade/Lote": null,
+        "Massa/Lote": 1,
+        "Incremento": 0.1,
+        "Categoria": "Carne Suína"
+    },
+    "Pernil": {
+        "Preço/Lote": 37.99,
+        "Quantidade/Lote": null,
+        "Massa/Lote": 1,
+        "Incremento": 0.1,
+        "Categoria": "Carne Suína"
+    },
+    "Lombo": {
+        "Preço/Lote": 37.99,
+        "Quantidade/Lote": null,
+        "Massa/Lote": 1,
+        "Incremento": 0.1,
+        "Categoria": "Carne Suína"
+    },
+    "Picanha": {
+        "Preço/Lote": 37.99,
+        "Quantidade/Lote": null,
+        "Massa/Lote": 1,
+        "Incremento": 0.1,
+        "Categoria": "Carne Bovina"
+    },
+    "Pão de Alho": {
+        "Preço/Lote": 15.97,
+        "Quantidade/Lote": 10,
+        "Massa/Lote": 0.8,
+        "Incremento": 1,
+        "Categoria": "Outros"
+    }
+}
